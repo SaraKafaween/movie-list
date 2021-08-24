@@ -1,0 +1,56 @@
+html{
+    @import url(https://fonts.googleapis.com/css?family=Roboto+Mono&subset=greek
+    );
+}
+p{
+    font-family: Roboto ;
+}
+
+header{
+    height: 75px;
+    background-color: #39A2DB;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+header p{
+    padding-top: 25px;
+    padding-left: 446px;
+}
+
+footer p{
+
+    color: white;
+    padding-left: 410px;
+}
+footer{
+    background-color: #053742;
+}
+#formdiv {
+  padding-top: 150px;
+  padding-left: 100px;  
+}
+#tablediv {
+    padding-top: 150px;
+}
+#name, #release {
+    width: 200px;
+
+}
+button{
+    background-color: #a10909;
+    color: white;
+    
+}
+#submit{
+    background-color: #71c7ec;
+    color: white;
+}
+#image{
+    width: 208px;
+}
+table{
+    display: grid;
+    grid-template-columns: 50px 30px 30px;
+
+}
